@@ -37,7 +37,7 @@ The app automatically suggests possible interpretations for unclear queries and 
 Clone the repo:
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd data_explorer
 ```
 
