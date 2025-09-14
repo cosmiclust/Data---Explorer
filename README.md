@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 # Data Explorer
 
 **Data Explorer** is a Streamlit app that lets anyone explore a CSV dataset using plain English. You can ask questions like “top 5 products this quarter” or “show seasonality by region” and get tables, charts, and explanations without needing any BI tools.
